@@ -1,5 +1,5 @@
 ---
-path: /blog/my-first/blog
+path: /blog/my-first-blog
 date: 2019-07-11T19:36:30.878Z
 title: How does this even work?
 ---
